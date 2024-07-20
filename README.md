@@ -7,6 +7,7 @@ This project demonstrates how to build an interactive English-to-Spanish transla
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
+- [Docker](#docker)
 - [Usage](#usage)
 - [Model Details](#model-details)
 - [Evaluation](#evaluation)
@@ -36,6 +37,16 @@ This Streamlit app provides a simple yet effective interface for translating Eng
 
 3. **Run Jupyter Notebook:**
     * Train the model using Torch cuda and save the model.
+
+## Dockers
+
+1. **Build Docker Image:**
+    ```bash
+   docker build -t english-to-spanish-translator . 
+
+2. **Run Docker Container:**
+    ```bash
+    docker run -p 8501:8501 english-to-spanish-translator
 
 ## Usage
 
