@@ -1,0 +1,14 @@
+#torch
+transformers
+datasets
+sentencepiece
+sacremoses
+ipykernel
+scikit-learn
+torchtext
+sacrebleu
+transformers[torch]
+#torchvision
+#torchaudio
+#cudatoolkit==12.1
+-e .
