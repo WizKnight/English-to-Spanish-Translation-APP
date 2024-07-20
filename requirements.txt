@@ -11,4 +11,8 @@ transformers[torch]
 #torchvision
 #torchaudio
 #cudatoolkit==12.1
+fastapi==0.74.*
+requests==2.27.*
+uvicorn[standard]==0.17.*
+streamlit
 -e .
