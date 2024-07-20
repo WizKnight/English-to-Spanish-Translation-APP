@@ -61,7 +61,7 @@ This Streamlit app provides a simple yet effective interface for translating Eng
 
 ## Demo Video
 
-[loom.com/translation_video]
+[Video](<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1cae83524d4d45a4b445882a38c2599c?sid=541b32fe-604a-4b69-937e-7a40645fd729" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>)
 
 ## Model Details
 
