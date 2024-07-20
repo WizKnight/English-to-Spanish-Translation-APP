@@ -34,6 +34,9 @@ This Streamlit app provides a simple yet effective interface for translating Eng
    ```bash
    pip install -r requirements.txt
 
+3. **Run Jupyter Notebook:**
+    * Train the model using Torch cuda and save the model.
+
 ## Usage
 
 1. **Run the App:**
