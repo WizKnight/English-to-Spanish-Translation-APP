@@ -52,5 +52,16 @@ This Streamlit app provides a simple yet effective interface for translating Eng
 
 ## Evaluation
 
-* The model was evaluated using the BLEU (Bilingual Evaluation Understudy) score, achieving a score of **22.96** on a test dataset.
+* The model was evaluated using the **BLEU** (Bilingual Evaluation Understudy) score, achieving a score of **22.96** on a test dataset.
 * Additional human evaluation was conducted to assess translation fluency and adequacy.
+
+## Future Work
+
+* Add support for batch translation.
+* Integrate a download option for translated text.
+* Explore other model architectures like T5.
+* Incorporate user feedback for continuous improvement.
+
+## Liscense
+
+This project is licensed under the Apache 2.0 License.
