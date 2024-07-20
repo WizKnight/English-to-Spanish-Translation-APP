@@ -9,6 +9,7 @@ This project demonstrates how to build an interactive English-to-Spanish transla
 - [Installation](#installation)
 - [Docker](#docker)
 - [Usage](#usage)
+- [Demo Video](#demo-video)
 - [Model Details](#model-details)
 - [Evaluation](#evaluation)
 - [Future Work](#future-work)
@@ -57,6 +58,10 @@ This Streamlit app provides a simple yet effective interface for translating Eng
 2. **Enter Text:** Type or paste your English text into the text area.
 3. **Click Translate:** Press the "Translate" button to initiate translation.
 4. **View Translation:** The translated Spanish text will appear below.
+
+## Demo Video
+
+[<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1cae83524d4d45a4b445882a38c2599c?sid=754acced-3459-4424-a1d1-9b5a858e1ae2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>]
 
 ## Model Details
 
