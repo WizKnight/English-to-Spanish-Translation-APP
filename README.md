@@ -61,7 +61,7 @@ This Streamlit app provides a simple yet effective interface for translating Eng
 
 ## Demo Video
 
-[Video]("https://www.loom.com/embed/1cae83524d4d45a4b445882a38c2599c?sid=541b32fe-604a-4b69-937e-7a40645fd729")
+[![English to Spanish Translator Demo](https://cdn.loom.com/sessions/thumbnails/1cae83524d4d45a4b445882a38c2599c-with-play.gif)](https://www.loom.com/share/1cae83524d4d45a4b445882a38c2599c)
 
 ## Model Details
 
